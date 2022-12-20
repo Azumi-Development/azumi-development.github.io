@@ -2,8 +2,9 @@
 
 
 ## Notice
-Before doing anything, read this:
+Before doing anything, read these:
 
+[License](https://raw.githubusercontent.com/Azumi-Development/Azumi/main/LICENSE)
 [Terms of Service](https://raw.githubusercontent.com/Azumi-Development/Azumi/main/terms-of-service)
 
 ### Thank you for reading.
