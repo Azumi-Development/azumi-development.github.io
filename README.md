@@ -4,7 +4,7 @@
 ## Notice
 Before doing anything, read these:
 
-[License](https://raw.githubusercontent.com/Azumi-Development/Azumi/main/LICENSE)
+[License](https://raw.githubusercontent.com/Azumi-Development/Azumi/main/LICENSE)<br>
 [Terms of Service](https://raw.githubusercontent.com/Azumi-Development/Azumi/main/terms-of-service)
 
 ### Thank you for reading.
