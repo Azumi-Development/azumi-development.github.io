@@ -22,6 +22,7 @@ Consider donating to our project.
 
 ## Tiers
 <html>
+<css>
 <body>
 <style>
 table, th, td {border: 1px solid black; border-radius: 10px}
@@ -38,6 +39,7 @@ table, th, td {border: 1px solid black; border-radius: 10px}
 </tr>
 </center>
 </body>
+</css>
 </html>
 
 # Site is still in progress.
