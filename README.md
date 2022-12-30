@@ -21,13 +21,9 @@ Consider donating to our project.
 <iframe src="https://canary.discord.com/widget?id=1007844136738619545&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ## Tiers
-<html>
-<css>
-<body>
 <style>
 table, th, td {border: 1px solid black; border-radius: 10px}
 </style>
-<center>
 <table border=5 width=900 style="background-color:black; font-family: 'TW Cen MT Condensed', 'Arial', Calibri, 'Trebuchet MS', sans-serif;">
 <tr align=center>
 <td colspan=3 align=center style="background-color:royalblue;color:rgb(255, 255, 255)"><br style="line-height: 30px"><h1>Tiers</h1></td>
@@ -37,10 +33,6 @@ table, th, td {border: 1px solid black; border-radius: 10px}
 <td align=center width=150 style="background-color: black;color:white">Premium Plan<br style="line-height: 30px">Coming Soon</td>
 <td align=center width=150 style="background-color: black;color:white">Pro Plan<br style="line-height: 30px">Coming Soon</td>
 </tr>
-</center>
-</body>
-</css>
-</html>
 
 # Site is still in progress.
 
