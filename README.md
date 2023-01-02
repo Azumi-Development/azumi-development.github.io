@@ -1,9 +1,7 @@
+<center><img src="https://i.imgur.com/He22p4b.png" border="0" width="40" height="40"> <strong>Azumi Development</strong></center>
 <style>
 body {background-color:black;color:white}
 </style>
-<center><img src="https://i.imgur.com/He22p4b.png" border="0" width="40" height="40"> <strong>Azumi Development</strong></center>
-
-<center>
 ## Notice
 Before doing anything, read these:
 
@@ -22,8 +20,7 @@ Consider donating to our project.
 ## Join our Discord!
 
 <iframe src="https://canary.discord.com/widget?id=1007844136738619545&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</center>
-  
+
   
   
 
