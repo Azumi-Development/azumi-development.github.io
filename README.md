@@ -1,6 +1,7 @@
+<style="background-color:black;color:white">
 <center><img src="https://i.imgur.com/He22p4b.png" border="0" width="40" height="40"> <strong>Azumi Development</strong></center>
 
-
+<center>
 ## Notice
 Before doing anything, read these:
 
@@ -34,3 +35,6 @@ table, th, td {border: 1px solid black; border-radius: 10px}
 <td width=150 style="background-color: black;color:white">Premium Plan<br style="line-height: 30px">Coming Soon</td>
 <td width=150 style="background-color: black;color:white">Pro Plan<br style="line-height: 30px">Coming Soon</td>
 </tr>
+</center>
+
+© Azumi Development 2022-2023
