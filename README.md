@@ -1,3 +1,6 @@
+<style>
+body {background-color:white;color:black}
+</style>
 <center><img src="https://i.imgur.com/He22p4b.png" border="0" width="40" height="40"> <strong>Azumi Development</strong></center>
 <style>
 body {background-color:black;color:white}
