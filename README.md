@@ -24,7 +24,8 @@ Consider donating to our project.
 ## Some reviews...
 
 <img width="257" src="https://user-images.githubusercontent.com/101112829/210307372-a03da8fb-71d7-43b5-b622-48b6175882ff.png"><br>
-<img width="257" src="https://user-images.githubusercontent.com/101112829/210307934-092ad59d-ad60-4725-8427-d4e1e1fcbdbd.png">
+<img width="257" alt="image" src="https://user-images.githubusercontent.com/101112829/210310128-c47827ce-439e-4979-8020-ff78f1f64bd4.png">
+
 
 
 
