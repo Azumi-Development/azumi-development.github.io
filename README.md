@@ -23,8 +23,9 @@ Consider donating to our project.
 
 ## Some reviews...
 
-<script src="runtime~main.335986b66fb5bcf65138.manager.bundle.js"></script><script src="vendors~main.0b7555aaeb5d052c07aa.manager.bundle.js"></script><script src="main.57da3f9fe16e02557812.manager.bundle.js"></script>
-  
-  
+<img width="230" src="https://user-images.githubusercontent.com/101112829/210307372-a03da8fb-71d7-43b5-b622-48b6175882ff.png">
+<img width="257" src="https://user-images.githubusercontent.com/101112829/210307934-092ad59d-ad60-4725-8427-d4e1e1fcbdbd.png">
+
+
 
 © Azumi Development 2022-2023
