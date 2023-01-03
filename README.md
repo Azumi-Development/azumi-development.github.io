@@ -21,6 +21,9 @@ Consider donating to our project.
 
 <iframe src="https://canary.discord.com/widget?id=1007844136738619545&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
+## Some reviews...
+
+<script src="runtime~main.335986b66fb5bcf65138.manager.bundle.js"></script><script src="vendors~main.0b7555aaeb5d052c07aa.manager.bundle.js"></script><script src="main.57da3f9fe16e02557812.manager.bundle.js"></script>
   
   
 
