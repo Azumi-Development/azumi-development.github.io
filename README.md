@@ -25,7 +25,7 @@ Consider donating to our project.
 ## Join our Discord!
 
 <script src="https://shhh7612.github.io/plugins/widget.js"></script>
-<discord-widget id="1007844136738619545" width="275px" height="300px" footerText="Azumi Development" color="#5865f2" backgroundColor="#0c0c0d" textColor="#ffffff" statusColor="#858585"></discord-widget>
+<discord-widget id="1007844136738619545" width="700px" height="400px" footerText="Azumi Development" color="#5865f2" backgroundColor="#0c0c0d" textColor="#ffffff" statusColor="#858585"></discord-widget>
 
 ## Some reviews...
 
