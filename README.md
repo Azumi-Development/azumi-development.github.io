@@ -24,7 +24,8 @@ Consider donating to our project.
 
 ## Join our Discord!
 
-<iframe src="https://canary.discord.com/widget?id=1007844136738619545&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<script src="https://shhh7612.github.io/plugins/widget.js"></script>
+<discord-widget id="1007844136738619545" width="275px" height="300px" footerText="Azumi Development" color="#5865f2" backgroundColor="#0c0c0d" textColor="#ffffff" statusColor="#858585"></discord-widget>
 
 ## Some reviews...
 
