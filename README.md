@@ -7,12 +7,6 @@ header {
 body {background-color:rgb(18, 18, 18);color:white}
 </style>
 <style>
-md-block {font-family: sans-serif;}
-</style>
-<style>
-md-span {font-family: sans-serif;}
-</style>
-<style>
 html {font-family: sans-serif;}
 </style>
 <head>
