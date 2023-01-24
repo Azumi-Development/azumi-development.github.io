@@ -1,0 +1,32 @@
+header {
+  display: none;
+}
+body {background-color:rgb(1, 2, 3);color:white}
+a:link {
+color:rgb(255, 204, 0);
+text-decoration: none;
+}
+a:visited {
+color:rgb(204, 112, 0);
+text-decoration: none;
+}
+a:hover {
+color:rgb(255, 204, 0);
+}
+a:active {
+color:rgb(204, 112, 0);
+}
+button {
+border: 1px solid black;
+border-radius: 10px;
+background-color: rgb(88, 101, 242);
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+}
+html {font-family: Arial}
