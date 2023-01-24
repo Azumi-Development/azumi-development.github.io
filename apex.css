@@ -1,22 +1,22 @@
-.header {
+header {
   display: none;
 }
-.body {background-color:rgb(1, 2, 3);color:white}
-.a:link {
+body {background-color:rgb(1, 2, 3);color:white}
+a:link {
 color:rgb(255, 204, 0);
 text-decoration: none;
 }
-.a:visited {
+a:visited {
 color:rgb(204, 112, 0);
 text-decoration: none;
 }
-.a:hover {
+a:hover {
 color:rgb(255, 204, 0);
 }
-.a:active {
+a:active {
 color:rgb(204, 112, 0);
 }
-.button {
+button {
 border: 1px solid black;
 border-radius: 10px;
 background-color: rgb(88, 101, 242);
@@ -29,4 +29,4 @@ font-size: 16px;
 margin: 4px 2px;
 cursor: pointer;
 }
-.html {font-family: Arial}
+html {font-family: Arial}
