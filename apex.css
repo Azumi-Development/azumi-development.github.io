@@ -29,7 +29,9 @@ font-size: 16px;
 margin: 4px 2px;
 cursor: pointer;
 }
-html {font-family: Arial}
+html {
+font-family: Arial;
+}
 ::-webkit-scrollbar {
   width: 5px;
 }
