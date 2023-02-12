@@ -28,7 +28,7 @@ npm i -g tailwindcss
 And now you can serve Azumi!
 
 ```sh
-bonnie run
+trunk serve
 ```
 
 ## Building
@@ -36,5 +36,11 @@ bonnie run
 Do the steps at the top then:
 
 ```sh
-bonnie build
+trunk build
+```
+
+or if for production:
+
+```sh
+trunk build --release
 ```

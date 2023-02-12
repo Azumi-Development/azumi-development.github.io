@@ -8,3 +8,8 @@ edition = "2021"
 [dependencies]
 yew = {version = "0.20.0", features = ["csr"]}
 yew-router = "0.17.0"
+
+# optimize bundle size
+[profile.release]
+lto = true
+opt-level = 's'
