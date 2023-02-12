@@ -1,6 +1,8 @@
 # Azumi Website
 Welcome! This is the Azumi Website, created in Rust with Yew!
 
+The MSRV is 1.67.
+
 ## Development
 
 Firstly if you haven't already, install Rust. I suggest using [rustup](https://rustup.rs).
