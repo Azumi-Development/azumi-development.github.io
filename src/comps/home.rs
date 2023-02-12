@@ -5,7 +5,7 @@ pub fn header() -> Html {
     html! {
         <header class={classes!("sticky", "bg-white/80", "backdrop-blur-md", "py-2")}>
             <div>
-                <div class={classes!("container", "desktop:ml-40", "text-2xl", "w-20", "h-14", "mobile:ml-10")}>
+                <div class={classes!("container", "mx-40", "text-2xl", "w-20", "h-14", "mobile:hidden")}>
                     <img src="static/topicon.gif" class={classes!("rounded-full")} />
                 </div>
             </div>
@@ -15,7 +15,7 @@ pub fn header() -> Html {
 
 pub fn home() -> Html {
     html! {
-        <div class={classes!("relative", "max-h", "min-h-screen", "bg-white", "font-brand", "antialiased", "text-gray-850", "mb:px-20")}>
+        <div class={classes!("relative", "bg-white", "font-brand", "antialiased", "text-gray-850", "mobile:px-10")}>
             <Header />
             <h1 class={classes!("text-center", "pt-40", "text-6xl", "font-semibold")}>
                 {"Imagine a safe space..."}
