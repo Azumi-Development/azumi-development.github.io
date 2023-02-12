@@ -3,19 +3,17 @@ use yew_router::prelude::*;
 mod comps;
 use comps::home::home;
 
-
 #[derive(Clone, Routable, PartialEq)]
 pub enum Route {
     #[at("/")]
-    Home
+    Home,
 }
 
 pub fn switch(route: Route) -> Html {
     match route {
-        Route::Home => home()
+        Route::Home => home(),
     }
 }
-
 
 #[function_component(App)]
 fn app() -> Html {
@@ -25,7 +23,6 @@ fn app() -> Html {
         </BrowserRouter>
     }
 }
-
 
 fn main() {
     yew::Renderer::<App>::new().render();
