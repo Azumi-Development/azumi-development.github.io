@@ -1,0 +1,28 @@
+version="0.3.2"
+
+[scripts]
+build-tailwind-dev = [
+    "tailwindcss -c ./tailwind.config.js -o ./tailwind.css"
+]
+
+build-tailwind = [
+    "tailwindcss -c ./tailwind.config.js -o ./tailwind.css --minify"
+]
+
+setup.subcommands.tailwind = "bonnie build-tailwind-dev"
+setup.subcommands.prompt-tailwind = "echo \"Have you installed the Tailwind CLI globally with 'npm i -g tailwindcss' or 'yarn global add tailwindcss'?\""
+setup.order = """
+tailwind {
+    Failure => prompt-tailwind
+}
+"""
+
+build.cmd = [
+    "bonnie build-tailwind",
+    "cargo build --release"
+]
+
+
+run.cmd = [
+    "trunk serve"
+]
