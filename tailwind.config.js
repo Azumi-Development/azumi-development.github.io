@@ -4,8 +4,9 @@ module.exports = {
     ],
     theme: {
         screens: {
-            'desktop': '1025px',
-            'mobile': {max: '1024px'}
+            'desktop': '1426px',
+            'mobile': {max: '1024px'},
+            'tablet': {max: '1425px'}
         },
         fontFamily: {
             brand: ['Inter', 'Roboto Mono']

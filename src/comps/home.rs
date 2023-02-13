@@ -5,7 +5,7 @@ pub fn header() -> Html {
     html! {
         <header class={classes!("sticky", "bg-white/80", "backdrop-blur-md", "py-2")}>
             <div>
-                <div class={classes!("container", "mx-40", "text-2xl", "w-20", "h-14", "mobile:hidden")}>
+                <div class={classes!("container", "desktop:mx-60", "tablet:mx-36", "text-2xl", "w-20", "h-14", "mobile:hidden")}>
                     <img src="static/topicon.gif" class={classes!("rounded-full")} />
                 </div>
             </div>
