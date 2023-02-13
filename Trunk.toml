@@ -1,4 +1,0 @@
-[[hooks]]
-stage = "pre_build"
-command = "bonnie"
-command_arguments = ["build-tailwind"]
