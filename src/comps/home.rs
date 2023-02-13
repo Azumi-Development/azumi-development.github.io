@@ -21,7 +21,7 @@ pub fn home() -> Html {
                 {"Imagine a safe space..."}
             </h1>
             <div class={classes!("text-center", "pt-10", "text-2xl", "max-w-5xl", "m-auto")}>
-                {"...lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+                {"...where you can have really fun commands, where you can have powerful moderation commands, and more! Well, that's Azumi!"}
             </div>
         </div>
     }
