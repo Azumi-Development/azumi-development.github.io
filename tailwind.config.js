@@ -1,18 +1,22 @@
-/** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
-  theme: {
-    extend: {},
-  },
-  plugins: [require("daisyui")],
-  daisyui: {
-    styled: true,
-    themes: true,
-    base: true,
-    utils: true,
-    logs: true,
-    rtl: false,
-    prefix: "",
-    darkTheme: "dark",
-  },
-}
+    content: [
+        "./src/**/*.rs",
+    ],
+    theme: {
+        extend: {
+            colors: {
+                'gray-850': '#1a1a1a',
+            }
+        },
+        screens: {
+            'desktop': '1426px',
+            'mobile': {max: '1024px'},
+            'tablet': {max: '1425px'}
+        },
+        fontFamily: {
+            brand: ['Inter', 'Roboto Mono']
+        },
+    },
+    variants: {},
+    plugins: [],
+};

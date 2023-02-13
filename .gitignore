@@ -1,0 +1,4 @@
+/target
+dist
+# this is part of the build process
+tailwind.css

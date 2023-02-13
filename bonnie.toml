@@ -1,0 +1,6 @@
+version="0.3.2"
+
+[scripts]
+build-tailwind = [
+    "tailwindcss -c ./tailwind.config.js -o ./tailwind.css --minify"
+]
