@@ -11,15 +11,19 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 17
+      
+      - name: Setup Tailwind
+        run: npm i -g tailwindcss
+
       - uses: actions-rs/toolchain@v1
         with:
           toolchain: stable
 
       - name: Setup Cargo
         uses: actions-rs/cargo@v1
-        with:
-          command: build
-          args: --release
 
       - name: Install Build Dependencies
         run: cargo install trunk bonnie
