@@ -23,6 +23,7 @@ jobs:
         with:
           toolchain: stable
           target: wasm32-unknown-unknown
+          default: true
 
       - name: Install Build Dependencies
         run: cargo install trunk bonnie
