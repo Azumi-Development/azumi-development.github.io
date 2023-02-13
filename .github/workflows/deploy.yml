@@ -21,9 +21,7 @@ jobs:
       - uses: actions-rs/toolchain@v1
         with:
           toolchain: stable
-
-      - name: Setup Cargo
-        uses: actions-rs/cargo@v1
+          target: wasm32-unknown-unknown
 
       - name: Install Build Dependencies
         run: cargo install trunk bonnie
