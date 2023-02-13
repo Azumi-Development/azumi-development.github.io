@@ -39,3 +39,4 @@ jobs:
           folder: dist
           clean: true
           force: true
+          clean-exclude: CNAME
