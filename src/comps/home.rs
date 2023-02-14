@@ -35,7 +35,6 @@ pub fn home() -> Html {
                 {"Join the Discord"}
             </button>
         </a>
-        </div>
     </div>
         <div>
         <h1 class={classes!("text-center","strong")}>
@@ -98,7 +97,8 @@ pub fn home() -> Html {
         </div>
         <br/>
         <br/>
-        {"© Azumi Development 2022-2023"}
+        {"© Azumi 2022-2023"}
+        </div>
         </div>
         }
     }
