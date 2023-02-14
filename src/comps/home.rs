@@ -35,6 +35,7 @@ pub fn home() -> Html {
                 {"Join the Discord"}
             </button>
         </a>
+        </div>
     </div>
         <div>
         <h1 class={classes!("text-center","strong")}>
